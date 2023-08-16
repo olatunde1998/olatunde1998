@@ -9,10 +9,10 @@ I'm a Software Engineer and  UI/UX Designer. I'm passionate about sharing knowle
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Reactjs, NextJs, VueJs and Python.
+- 🌱 I’m currently learning JavaScript, Reactjs, NextJs, VueJs, React-Native.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or Product design : UI/UX Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://docs.google.com/document/d/1REXyHoODLLWRuq7yT9saKWBcrBi3f_c7qz6LYryMebs/edit?usp=sharing) and contact me by emailing olatunde336@gmail.com.
+- 📫 You can [view my resume]([https://docs.google.com/document/d/1REXyHoODLLWRuq7yT9saKWBcrBi3f_c7qz6LYryMebs/edit?usp=sharing](https://drive.google.com/file/d/1wcsYBbYlZz1PXyB_rCCCO-q_5ebOrsTP/view?usp=sharing)) and contact me by emailing olatunde336@gmail.com.
 
 ---
 
