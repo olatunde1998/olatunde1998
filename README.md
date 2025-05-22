@@ -10,7 +10,7 @@ Committed to inspire the next generation of developers, I aim to make a lasting 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 🌱 I’m currently learning JavaScript, Reactjs, NextJs, VueJs, React-Native.
+- 🌱 I’m Proficient in using AI Integration, Typescript, JavaScript, Reactjs, NextJs, Tailwindcss, styled-component, React-Native, ExpressJs, NestJs.
 - 😊 I’m looking for help with Jobs, open source projects, hackathons opportunities.
 - 💼 Job interests: Software Engineering, Frontend Engineering.
 - 📫 You can [view my resume](https://docs.google.com/document/d/1HG7RN7PFtuzhx1CuvgpJh-4LZ4D1Fs0clnvXVJV3074/edit?usp=sharing) and contact me by emailing olatunde336@gmail.com.
